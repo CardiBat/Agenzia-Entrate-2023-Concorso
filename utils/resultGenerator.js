@@ -11,7 +11,7 @@ fs.readFile(jsonFilePath, 'utf8', (err, data) => {
         return;
     }
 
-    // Analizing...
+    // Analyzing...
     const jsonData = JSON.parse(data);
     const numbers = [];
 
