@@ -7,3 +7,16 @@ Otherwise, if your score has only 1000 people over than you, you will SURELY be 
 
 ## Usage
 
+Change the '23' score in the inner if (in resultGenerator.js) with your score. Make the same thing with the printing code on the bottom.
+
+Run the following command (In 'utils' directory!:
+```
+node resultGenerator.js
+```
+And your result will be displayed.
+
+## Other uses
+
+If you want, you can re-generate the JSON-converted pdf with resultScraper.JS and also you can do this with another pdf-result files (for example, Concorso Agenzia Entrate 2023 - Funzionari Servizi Pubblicità Immobiliari 530')
+
+
